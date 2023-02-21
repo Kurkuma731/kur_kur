@@ -1,1 +1,1 @@
-Print("All done!")
+Print("All doe!")
